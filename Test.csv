@@ -1,0 +1,12 @@
+Subject,Predicate,Object
+http://example.org/people/Diego,type,person
+http://example.org/people/Diego,name,Diego
+http://example.org/people/Hector,type,person
+http://example.org/people/Hector,name,Hector
+http://example.org/people/Rodrigo,type,person
+http://example.org/people/Rodrigo,name,Rodrigo
+http://example.org/people/Daniel,type,person
+http://example.org/people/Daniel,name,Daniel
+http://example.org/people/Rodolfo,type,person
+http://example.org/people/Rodolfo,name,Rodolfo
+http://example.org/people/Diego,homepage,https://www.youtube.com/channel/UCDUp4GPD88qa9woK0TYtRlQ?view_as=subscriber
